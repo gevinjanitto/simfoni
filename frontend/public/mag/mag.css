@@ -596,3 +596,5 @@ figure.fig.docx.n3.wide img{aspect-ratio:16/9}
 .duo.stack > *{margin-bottom:4mm}
 .cols,.duo.stack{break-inside:auto}
 .tblwrap.splittable .tchunk{break-inside:auto}
+
+#s28{break-before:page}
