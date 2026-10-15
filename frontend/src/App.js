@@ -18,7 +18,7 @@ const Home = () => {
   };
 
   useEffect(() => {
-    helloWorldApi();
+    window.location.replace(`/mag/index.html${window.location.hash}`);
   }, []);
 
   return (
